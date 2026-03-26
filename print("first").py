@@ -1,1 +1,1 @@
-print("second")
+print("tir")
